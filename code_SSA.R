@@ -1,7 +1,7 @@
 library(ggplot2)
 library(ggpubr)
 library(curl)
-library("NMF")
+library(NMF)
 library(sva)
 library(CancerSubtypes)
 library(clusterProfiler)
